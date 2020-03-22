@@ -27,5 +27,3 @@ axios.get(url).then(res => {
   let result = options.pais ? res.data.countrydata : res.data
   console.log(result)
 });
-
-
