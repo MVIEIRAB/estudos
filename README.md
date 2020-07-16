@@ -1,2 +1,2 @@
 # estudos
-repositorios para commitar os desafios / cursos
+repositório para commitar os desafios / cursos
